@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RER",
+    "EAE",
+    "RER"
+  ],
+  "key": {
+    "R": {
+      "item": "mekanism_mod:reinforced_alloy"
+    },
+    "E": {
+      "item": "mekanism_mod:enriched_uranium"
+    },
+    "A": {
+      "item": "mekanism_mod:advanced_circuit"
+    }
+  },
+  "result": {
+    "item": "mekanism_mod:fission_reactor_core",
+    "count": 1
+  }
+}
